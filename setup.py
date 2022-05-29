@@ -34,7 +34,7 @@ setup(name='kraken-wsclient-py',
           'six==1.12.0',
           'Twisted==19.7.0',
           'txaio==18.8.1',
-          'zope.interface==4.6.0',
+          'zope.interface==5.4.0',
       ],
       classifiers=[
           'Development Status :: 3 - Alpha',
